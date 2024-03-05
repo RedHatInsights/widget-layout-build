@@ -1,10 +1,10 @@
 {
     "frontendStarterApp": {
         "entry": [
-            "/beta/apps/frontend-starter-app/frontendStarterApp.c2fa23e9c67dc9d29258.js"
+            "/beta/apps/frontend-starter-app/frontendStarterApp.8f11b41b5ecf1b6f27c7.js"
         ],
         "modules": [
-            "/beta/apps/frontend-starter-app/js/488.c2fa23e9c67dc9d29258.js",
+            "/beta/apps/frontend-starter-app/js/488.8f11b41b5ecf1b6f27c7.js",
             "/beta/apps/frontend-starter-app/css/488.d275e3d9609e7049ba71.css"
         ]
     }
