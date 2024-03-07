@@ -1,11 +1,11 @@
 {
-    "frontendStarterApp": {
+    "widgetLayout": {
         "entry": [
-            "/beta/apps/frontend-starter-app/frontendStarterApp.b6d2da951485e8f94ab9.js"
+            "/beta/apps/widget-layout/widgetLayout.c58782ef13035007b0a5.js"
         ],
         "modules": [
-            "/beta/apps/frontend-starter-app/js/488.b6d2da951485e8f94ab9.js",
-            "/beta/apps/frontend-starter-app/css/488.a6f1f3844a39c2512b77.css"
+            "/beta/apps/widget-layout/js/488.c58782ef13035007b0a5.js",
+            "/beta/apps/widget-layout/css/488.35c1ff5df881dd6103bf.css"
         ]
     }
 }
