@@ -1,14 +1,14 @@
 {
   "app_name": "widget-layout",
   "node_version": ">=16.0.0",
-  "src_hash": "4efa760a141b0f183a6c8ee5b1065fd09d2a50ef",
+  "src_hash": "b3cc17394e8d0c160dd3d1c40f2f463e030056ee",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@5.2.0","@patternfly/react-table@5.2.0"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-utilities@4.0.3","@redhat-cloud-services/frontend-components@4.2.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "116",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/widget-layout/builds/269565223"
+    "build_number": "122",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/widget-layout/builds/269583312"
   }
 }
