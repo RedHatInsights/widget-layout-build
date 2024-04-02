@@ -1,16 +1,16 @@
 {
     "widgetLayout": {
         "entry": [
-            "/beta/apps/widget-layout/widgetLayout.8083d48d3611a63fe469.js"
+            "/beta/apps/widget-layout/widgetLayout.cec6bd7aa28697543d96.js"
         ],
         "modules": [
-            "/beta/apps/widget-layout/js/988.8083d48d3611a63fe469.js",
-            "/beta/apps/widget-layout/css/988.71c533c3c7c8a5448fcf.css",
-            "/beta/apps/widget-layout/js/196.8083d48d3611a63fe469.js",
-            "/beta/apps/widget-layout/css/196.544ffbb3fe90813c0234.css",
-            "/beta/apps/widget-layout/js/312.8083d48d3611a63fe469.js",
-            "/beta/apps/widget-layout/js/872.8083d48d3611a63fe469.js",
-            "/beta/apps/widget-layout/css/872.8347c825c8df98b1f862.css"
+            "/beta/apps/widget-layout/js/988.cec6bd7aa28697543d96.js",
+            "/beta/apps/widget-layout/css/988.1837aaa73db9bb05a37b.css",
+            "/beta/apps/widget-layout/js/196.cec6bd7aa28697543d96.js",
+            "/beta/apps/widget-layout/css/196.47a1bf6b1774cb1dd4cd.css",
+            "/beta/apps/widget-layout/js/312.cec6bd7aa28697543d96.js",
+            "/beta/apps/widget-layout/js/44.cec6bd7aa28697543d96.js",
+            "/beta/apps/widget-layout/css/44.8347c825c8df98b1f862.css"
         ]
     }
 }
