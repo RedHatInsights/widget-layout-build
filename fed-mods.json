@@ -1,13 +1,13 @@
 {
     "widgetLayout": {
         "entry": [
-            "/beta/apps/widget-layout/widgetLayout.6ef50b4e62b0c218519e.js"
+            "/beta/apps/widget-layout/widgetLayout.602a60b6b89d4d9e072c.js"
         ],
         "modules": [
-            "/beta/apps/widget-layout/js/988.6ef50b4e62b0c218519e.js",
+            "/beta/apps/widget-layout/js/988.602a60b6b89d4d9e072c.js",
             "/beta/apps/widget-layout/css/988.c87684cce750251d1707.css",
-            "/beta/apps/widget-layout/js/468.6ef50b4e62b0c218519e.js",
-            "/beta/apps/widget-layout/css/468.afc2a624ca09b3e821b4.css"
+            "/beta/apps/widget-layout/js/608.602a60b6b89d4d9e072c.js",
+            "/beta/apps/widget-layout/css/608.afc2a624ca09b3e821b4.css"
         ]
     }
 }
